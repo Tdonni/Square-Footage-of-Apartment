@@ -1,2 +1,2 @@
 # Square-Footage-of-Apartment
-Calculate the square footage cost on three apartment rentals to decide which is the least expensive.
+Calculate the square footage cost on three apartment rentals to decide which is the least expensive. This is a program to calculate the square footage of three apartments, and how much it would cost to rent (based on the square footage). Ask how much per square feet in order to calculate the cost of renting. The final step is to show how much each apartment costs so I can compare them. 
